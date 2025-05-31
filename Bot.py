@@ -21,7 +21,6 @@ import RFM  # Импорт модуля RFM.py для анализа RFM
 from Model import Gemini
 import re
 from VectorSearch import init_recommendations, find_recommendations
-from telegram.error import RetryAfter, BadRequest
 
 
 # === Конфигурация токена и базы данных ===
